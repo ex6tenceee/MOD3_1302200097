@@ -1,0 +1,15 @@
+C:\Users\NITRO\source\repos\Modul3_1302200097\bin\Debug\net6.0\Modul3_1302200097.exe
+C:\Users\NITRO\source\repos\Modul3_1302200097\bin\Debug\net6.0\Modul3_1302200097.deps.json
+C:\Users\NITRO\source\repos\Modul3_1302200097\bin\Debug\net6.0\Modul3_1302200097.runtimeconfig.json
+C:\Users\NITRO\source\repos\Modul3_1302200097\bin\Debug\net6.0\Modul3_1302200097.dll
+C:\Users\NITRO\source\repos\Modul3_1302200097\bin\Debug\net6.0\Modul3_1302200097.pdb
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.dll
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\refint\Modul3_1302200097.dll
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.pdb
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\Modul3_1302200097.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Modul3_1302200097\obj\Debug\net6.0\ref\Modul3_1302200097.dll
