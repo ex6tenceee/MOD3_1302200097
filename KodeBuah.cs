@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Modul3_1302200097
 {
-    public class KodeBuah
+    internal class KodeBuah
     {
+        private static int inputbuah;
 
         public enum NamaBuah
         {
@@ -26,12 +27,12 @@ namespace Modul3_1302200097
             Melon,
             Semangka,
         };
-        
-        public static string GetKodeBuah(NamaBuah namabuah)
+
+        public static string GetKodenyaBuah(NamaBuah buah)
         {
             string[] KodeNamaBuah = { "A00", "B00", "C00", "D00", "E00", "F00", "G00", "H00", "I00", "J00", "K00", "L00", "M00", "N00", "O00" };
-  
-            return KodeNamaBuah[(string)namabuah];
+            int indexJawaban = (int)inputNamaBuah;
+            return KodeNamaBuah[indexJawaban];
         }
     }
 }
